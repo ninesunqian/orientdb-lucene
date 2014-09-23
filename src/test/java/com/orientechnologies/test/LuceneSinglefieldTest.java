@@ -38,13 +38,13 @@ import java.util.List;
  * Created by enricorisa on 19/09/14.
  */
 @Test
-public class LuceneSingleFieldTest extends BaseLuceneTest {
+public class LuceneSinglefieldTest extends BaseLuceneTest {
 
-  public LuceneSingleFieldTest() {
+  public LuceneSinglefieldTest() {
         super();
   }
 
-  public LuceneSingleFieldTest(boolean remote) {
+  public LuceneSinglefieldTest(boolean remote) {
     super(remote);
   }
 

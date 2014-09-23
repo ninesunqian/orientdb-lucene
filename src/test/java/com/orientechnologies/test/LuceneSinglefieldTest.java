@@ -38,10 +38,10 @@ import java.util.List;
  * Created by enricorisa on 19/09/14.
  */
 @Test
-public class LuceneSinglefieldTest extends BaseLuceneTest {
+public class LuceneSingleFieldTest extends BaseLuceneTest {
 
   public LuceneSingleFieldTest() {
-
+        super();
   }
 
   public LuceneSingleFieldTest(boolean remote) {

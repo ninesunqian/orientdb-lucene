@@ -498,17 +498,17 @@ public class OLuceneClassIndexManager extends ODocumentHookAbstract implements O
   }
 
   @Override
-  public void onCreate(ODatabaseInternal iDatabase) {
+  public void onCreate(ODatabase iDatabase) {
 
   }
 
   @Override
-  public void onOpen(ODatabaseInternal iDatabase) {
+  public void onOpen(ODatabase iDatabase) {
 
   }
 
   @Override
-  public void onClose(ODatabaseInternal iDatabase) {
+  public void onClose(ODatabase iDatabase) {
 
   }
 
